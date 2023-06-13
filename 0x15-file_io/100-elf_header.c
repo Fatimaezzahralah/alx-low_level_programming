@@ -24,7 +24,7 @@ void print_osabi(unsigned char *e_ident);
  *
  * Return: on success 0.
  *
- * Description: 98 If it is not an ELF File or the function fails 
+ * Description: 98 If it is not an ELF File or the function fails
  */
 int main(int __attribute__((__unused__)) argc, char *argv[])
 {
